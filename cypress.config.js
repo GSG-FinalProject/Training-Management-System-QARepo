@@ -9,7 +9,7 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       on('file:preprocessor', cucumber());
     },
-    baseUrl: 'http://localhost:5174/login',
+    baseUrl: 'http://localhost:5173/login',
   },
   screenshotsFolder: 'MyScreens',
   video:true
