@@ -13,7 +13,10 @@ The Training Management System includes various roles with specific functionalit
 ## Test Videos
 Here are some videos demonstrating the test cases:
 
-https://github.com/user-attachments/assets/5c8de65e-a88f-48a1-bf4a-4724c6d48528
+
+https://github.com/user-attachments/assets/ab7e01f9-c6a2-4915-b4ee-b9e7d2b9abf8
+
+
 
 <br>
 
